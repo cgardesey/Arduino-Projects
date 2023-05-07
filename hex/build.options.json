@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "C:\\Program Files\\Arduino\\Arduino\\libraries",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "C:\\Program Files\\Arduino\\Arduino\\hardware",
+  "otherLibrariesFolders": "C:\\Users\\Ayatullah\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10606",
+  "sketchLocation": "C:\\Users\\Ayatullah\\Documents\\Arduino\\sketch_feb03a\\sketch_feb03a.ino",
+  "toolsFolders": "C:\\Program Files\\Arduino\\Arduino\\tools-builder,C:\\Program Files\\Arduino\\Arduino\\hardware\\tools\\avr"
+}
